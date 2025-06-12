@@ -7,6 +7,12 @@ It lets users type a prompt and receive an intelligent response from a compact G
 
 ---
 
+## 🖼 Preview
+
+![Chatbot Screenshot](screenshot.png)
+
+---
+
 ## ✨ Features
 
 - Uses `ChatOpenAI` from LangChain to access OpenAI's GPT-4.1-nano model
